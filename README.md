@@ -1,14 +1,12 @@
-<img align="right" width="230" src="./koala1.png">
+<table>
+  <tr>
+    <td valign="top" width="65%">
 
-<h1>
-  Hi, I'm Lucas 👋
-</h1>
+<h3>Hi, I'm Lucas 👋</h3>
 
-<p>
-  <b>Currently training in application development 🐨</b>
-</p>
+<b>Currently training in application development 🐨</b>
 
-<br>
+<br><br>
 
 <pre>
 🎓 Weiterbildung zum Fachinformatiker für Anwendungsentwicklung
@@ -18,6 +16,14 @@
 📍 Berlin, Germany
 </pre>
 
-<br>
+    </td>
 
-<img src="./koala2.gif" width="120">
+    <td valign="top" align="right" width="35%">
+      <img src="./koala1.png" width="220" alt="Koala mascot" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./koala2.gif" width="120" alt="Sleeping koala gif" />
+</p>
