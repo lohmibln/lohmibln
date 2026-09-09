@@ -16,9 +16,9 @@
 📍 Berlin, Germany
 </pre>
 
-    </td>
+   </td>
 
-    <td valign="top" align="right" width="35%">
+  <td valign="top" align="right" width="35%">
       <img src="./koala1.png" width="220" alt="Koala mascot" />
     </td>
   </tr>
