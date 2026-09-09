@@ -13,6 +13,7 @@
 💻 JavaScript • Web projects • Browser extensions
 🧩 Application development • Databases • Software testing
 🛠️ Learning by building practical projects
+🎮 Gaming • YouTube • Side projects
 📍 Berlin, Germany
 </pre>
 
